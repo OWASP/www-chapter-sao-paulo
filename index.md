@@ -2,53 +2,46 @@
 
 layout: col-sidebar
 title: OWASP Sao Paulo
-tags: example-tag
+tags: participation-tag sponsorship-tag
 level: 0
 
 region: South America
 
-auto-migrated: 1
-
 ---
 
-
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
 ## Welcome
-Include some information here about your chapter
+Welcome to the <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a> chapter homepage
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+## Por que fazer parte da OWASP São Paulo?
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+A comunidade organiza encontros onde especialistas fazem apresentações e seminários sobre tópicos de segurança de software.
+A participação na comunidade aumentará seus conhecimentos e habilidades.
+Oportunidade de interagir com outros profissionais de software aumentando os seus contatos na região.
+A participação nas listas de discussão e a participação nas sessões da OWASP São Paulo são gratuitas.
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+## Mídias Oficiais
+<a href="https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/">Meetup OWASP São Paulo</a>
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+## Agradecimentos da equipe OWASP Chapter São Paulo
+<b>FECHANDO 2019</b><br>
+Firmeza e constância de propósito. Essa frase resume bem o ano de 2019 para nós da OWASP SP.<br>
+Tivemos a firmeza de seguir em frente e enfrentar novos desafios. Ao todo foram 10 meetups realizados em 2019, na capital e em cidades do interior de SP!<br>
+A constância de propósito de que é possível ser voluntário e levar a missão da OWASP para tornar as aplicações mais seguras!<br>
+Isso foi possível graças ao apoio incondicional da comunidade e membros da OWASP, que palestraram e prestigiaram todas as nossas iniciativas.<br>
+E parafraseando o grande Eoin Keary, "Na OWASP, estamos tentando tornar o mundo um lugar onde software inseguro seja a anomalia, não a regra".<br>
+Continuamos fazendo o nosso melhor e esperamos ter feito a nossa parte!<br>
+<br>
+Viva 2019 e que venha 2020!<br>
+<br>
+<b>FECHANDO 2018</b><br>
+E quatro meses se passaram desde a reativação da OWASP em São Paulo.<br>
+Quatro meses de muito trabalho e também de muitas realizações.<br>
+Quatro meses conhecendo novas pessoas e trocando muitas experiências.<br>
+Quatro meses contribuindo para um entidade que completa 17 anos de apoio à comunidade.<br>
+Esperamos ter contribuído com todos os membros OWASP e as pessoas que participaram dos nossos 7 eventos realizados nesse ano.<br>
+Agradecemos os patrocinadores e palestrantes que acreditaram e nos ajudaram a levar a missão da OWASP para tornar as aplicações mais seguras!<br>
+E parafraseando o grande Eoin Keary, "Na OWASP, estamos tentando tornar o mundo um lugar onde software inseguro seja a anomalia, não a regra".<br>
+Fizemos o nosso melhor e esperamos ter feito a nossa parte!<br>
+<br>
+E que venha 2019!<br>
+<br>
