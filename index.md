@@ -9,7 +9,7 @@ region: South America
 
 ---
 
-## Seja Bem-vindo!
+## Seja bem-vindo!
 Seja bem-vindo a página da OWASP Chapter São Paulo! 
 <br>
 <center>
