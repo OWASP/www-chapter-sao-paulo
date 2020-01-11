@@ -21,6 +21,9 @@ Welcome to the <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo
 <li>A participação nas listas de discussão e a participação nas sessões da OWASP São Paulo são gratuitas.</li>
 </ul>
 
+## Equipe OWASP São Paulo
+Os membros da equipe OWASP São Paulo são Fernando Galves, Alessandro de Oliveira Faria (Cabelo) e a Prof. Dra. Ines Brosso.
+
 ## Mídias Oficiais
 <a href="https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/">Meetup OWASP São Paulo</a>
 
