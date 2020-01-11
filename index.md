@@ -11,7 +11,10 @@ region: South America
 
 ## Welcome
 Welcome to the <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a> chapter homepage
+<center>
 <img src="assets/images/600px-Logo_owasp_sp.png">
+</center>
+<br>
 
 ## Por que fazer parte da OWASP São Paulo?
 <ul>
@@ -20,12 +23,9 @@ Welcome to the <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo
 <li>Oportunidade de interagir com outros profissionais de software aumentando os seus contatos na região.</li>
 <li>A participação nas listas de discussão e a participação nas sessões da OWASP São Paulo são gratuitas.</li>
 </ul>
-
+<br>
 ## Equipe OWASP São Paulo
 Os membros da equipe OWASP São Paulo são Fernando Galves, Alessandro de Oliveira Faria (Cabelo) e a Prof. Dra. Ines Brosso.
-
-## Mídias Oficiais
-<a href="https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/">Meetup OWASP São Paulo</a>
 
 ## Agradecimentos da equipe OWASP Chapter São Paulo
 <b>FECHANDO 2019</b><br>
