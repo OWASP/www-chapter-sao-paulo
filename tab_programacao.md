@@ -1,9 +1,11 @@
 ---
 
 title: Programacao
+displaytext: Programação
 layout: null
 order: 1
 tab: true
+tags: null
 ---
 
 <h1>Programação de 2019</h1>
