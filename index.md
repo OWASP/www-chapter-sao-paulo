@@ -9,8 +9,9 @@ region: South America
 
 ---
 
-## Welcome
-Welcome to the <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a> chapter homepage
+## Seja Bem-vindo!
+Seja bem-vindo a página da OWASP Chapter São Paulo! 
+<br>
 <center>
 <img src="assets/images/600px-Logo_owasp_sp.png">
 </center>
