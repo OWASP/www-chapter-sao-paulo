@@ -14,6 +14,7 @@ Welcome to the <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo
 <center>
 <img src="assets/images/600px-Logo_owasp_sp.png">
 </center>
+A OWASP São Paulo é um dos 8 capítulos brasileiros entre os mais de 200 Capítulos ativos em todo o mundo. Nosso objetivo é disseminar a missão da OWASP, tornando a segurança das aplicações visível, para que as pessoas e organizações possam tomar decisões conscientes sobre os verdadeiros riscos de segurança das aplicações. Serão realizados encontros para que as pessoas possam compartilhar conhecimentos, discutir e aprender sobre segurança de software. A organização também tem muitos projetos ativos nos quais os voluntários podem participar para criar códigos e documentos para a comunidade mundial de segurança.
 <br>
 
 ## Por que fazer parte da OWASP São Paulo?
