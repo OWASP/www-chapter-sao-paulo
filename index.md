@@ -11,13 +11,15 @@ region: South America
 
 ## Welcome
 Welcome to the <a href="https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a> chapter homepage
+<img src="assets/images/600px-Logo_owasp_sp.png">
 
 ## Por que fazer parte da OWASP São Paulo?
-
-A comunidade organiza encontros onde especialistas fazem apresentações e seminários sobre tópicos de segurança de software.
-A participação na comunidade aumentará seus conhecimentos e habilidades.
-Oportunidade de interagir com outros profissionais de software aumentando os seus contatos na região.
-A participação nas listas de discussão e a participação nas sessões da OWASP São Paulo são gratuitas.
+<ul>
+<li>A comunidade organiza encontros onde especialistas fazem apresentações e seminários sobre tópicos de segurança de software.</li>
+<li>A participação na comunidade aumentará seus conhecimentos e habilidades.</li>
+<li>Oportunidade de interagir com outros profissionais de software aumentando os seus contatos na região.</li>
+<li>A participação nas listas de discussão e a participação nas sessões da OWASP São Paulo são gratuitas.</li>
+</ul>
 
 ## Mídias Oficiais
 <a href="https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/">Meetup OWASP São Paulo</a>
