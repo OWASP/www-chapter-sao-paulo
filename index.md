@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Sao Paulo
-tags: participation-tag sponsorship-tag
+tags: chapter-sp
 level: 0
 
 region: South America
