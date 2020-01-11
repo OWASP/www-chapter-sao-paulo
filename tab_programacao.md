@@ -9,7 +9,7 @@ tags: chapter-sp
 ---
 
 <h2>Programação de 2019</h2>
-<br>
+
 <h4>OWASP SP EPISÓDIO 2^4 - GUIABOLSO</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso primeiro evento de 2019.<br>
 
@@ -82,7 +82,7 @@ Venha conhecer sobre os projetos OWASP Top 10 mobile e OWASP API Security Projec
 <b>Inscrições:</b> A inscrição deverá ser realizada diretamente no local<br>
 <br>
 <h2>Programação de 2018</h2>
-<br>
+
 <h4>OWASP SP NA FMU - CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do evento sobre a OWASP Capítulo SP, OWASP Top 10 - 2017 e desenvolvimento seguro.<br>
 
