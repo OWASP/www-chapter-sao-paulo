@@ -90,6 +90,7 @@ O capítulo OWASP SP convida profissionais de segurança da informação, desenv
 <b>Data:</b> segunda-feira, 10 de dezembro de 2018 a partir das 19:00<br>
 <b>Local:</b> C6 Bank - Avenida Nove de Julho, 3186 · São Paulo/SP<br>
 <b>Inscrições:</b> [12]<br>
+<br>
 <h4>OWASP SP EPISÓDIO 2^2</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do terceiro encontro local do capitulo.<br>
 
