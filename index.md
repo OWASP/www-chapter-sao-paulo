@@ -1,10 +1,7 @@
 ---
-
 layout: col-sidebar
 title: OWASP Sao Paulo
 tags: chapter-sp
-level: 4
-
 region: South America
 
 ---
