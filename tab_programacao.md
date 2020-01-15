@@ -10,7 +10,7 @@ tags: chapter-sp
 
 <h2>Programação de 2020</h2>
 
-<h4>OWASP SP ON THE ROAD - BEBEDOURO/SP</h4>
+<h4>OWASP SP NA AME</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso primeiro evento de 2020.<br>
 
 <b>Data:</b> Terça-feira, 28 de janeiro de 2020 a partir das 19:00<br>
