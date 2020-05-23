@@ -12,7 +12,7 @@ tags: chapter-sp
 
 <h4>OWASP LATAM@Home 2020</h4>
 De 4 a 8 de maio aconteceu o maior evento online da OWASP na América Latina, o OWASP LATAM@Home 2020.
-Foram apresentadas palestras e workshops em Espanhol e Português. As informações sobre o evento estão disponíveis em https://owasp.org/www-event-2020-latam-at-home/<br>
+Foram apresentadas palestras e workshops em Espanhol e Português. As informações sobre o evento estão disponíveis em <a href="https://owasp.org/www-event-2020-latam-at-home/">https://owasp.org/www-event-2020-latam-at-home/</a><br>
 <br>
 Nós da OWASP Sao Paulo agradecemos os palestrantes que representaram o nosso capítulo nesse evento.<br>
 As palestras que eles realizaram foram as seguintes:<br>
@@ -38,7 +38,7 @@ As palestras que eles realizaram foram as seguintes:<br>
 <li>21:20 - 22:00 Alessandro de Oliveira Faria: OWASP Top Ten Mobile</li>
 </ul>
 Se você não teve tempo de assistir o evento online, não se preocupe. Todas as palestras foram gravadas e estão sendo disponibilizadas no canal oficial da OWASP LATAM.<br>
-<b>Acesse: https://www.youtube.com/watch?v=ZDXieXy6zkw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ</b><br>
+Acesse a <a href="https://www.youtube.com/watch?v=ZDXieXy6zkw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ">playlist em Português</a><br>
 <br>
 
 <h4>OWASP SP NA AME</h4>
