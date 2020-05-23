@@ -11,7 +11,7 @@ tags: chapter-sp
 <h2>Programação de 2020</h2>
 
 <h4>OWASP LATAM@Home 2020</h4>
-De 4 a 8 de maio, aconteceu o maior evento online da OWASP na América Latina, o OWASP LATAM@Home 2020.
+De 4 a 8 de maio aconteceu o maior evento online da OWASP na América Latina, o OWASP LATAM@Home 2020.
 Foram apresentadas palestras e workshops em Espanhol e Português. As informações sobre o evento estão disponíveis em https://owasp.org/www-event-2020-latam-at-home/<br>
 <br>
 Nós da OWASP Sao Paulo agradecemos os palestrantes que representaram o nosso capítulo nesse evento.<br>
