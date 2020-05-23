@@ -36,7 +36,6 @@ Sexta-feira:<br>
 <ul>
 <li>21:20 - 22:00 Alessandro de Oliveira Faria: OWASP Top Ten Mobile</li>
 </ul>
-<br>
 Se você não teve tempo de assistir o evento online, não se preocupe. Todas as palestras foram gravadas e estão sendo disponibilizadas no canal oficial da OWASP LATAM.<br>
 <b>Acesse: https://www.youtube.com/watch?v=ZDXieXy6zkw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ</b><br>
 <br>
