@@ -17,23 +17,23 @@ Foram apresentadas palestras e workshops em Espanhol e Português. As informaç�
 Nós da OWASP Sao Paulo agradecemos os palestrantes que representaram o nosso capítulo nesse evento.<br>
 As palestras que eles realizaram foram as seguintes:<br>
 <br>
-Terça-feira:<br>
+<b>Terça-feira:</b><br>
 <ul>
 <li>
   <a href="https://www.youtube.com/watch?v=ZDXieXy6zkw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ&index=1">17:20 - 18:00 Anchises Moraes: Bountying for Bugs</a></li>
 <li><a href="https://www.youtube.com/watch?v=jztKcBBJkOo&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ&index=2">18:00 - 18:40 Alessandra Martins: Jornada Security by Design</a></li>
 </ul>
-Quarta-feira:<br>
+<b>Quarta-feira:</b><br>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=FGt2-E-l5ZU&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ&index=11">20:40 - 21:20 Glauco Sampaio: Open Banking, e a segurança?</a></li>
 </ul>
-Quinta-feira:<br>
+<b>Quinta-feira:</b><br>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=n_EcR9nLy6g&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ&index=14">16:40 - 17:20 Leandro Inácio: Automatizando o processo de reconhecimento</a></li>
 <li><a href="https://www.youtube.com/watch?v=mHwphTkGSFw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ&index=15">17:20 - 18:00 Alessandra Martins: OWASP Top 10 e como isso pode dar um up nas QA´s skills?</a></li>
 <li><a href="https://www.youtube.com/watch?v=V238z3RdyFM&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ&index=19">20:40 - 21:20 Fernando Galves: Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set</a></li>
 </ul>
-Sexta-feira:<br>
+<b>Sexta-feira:</b><br>
 <ul>
 <li>21:20 - 22:00 Alessandro de Oliveira Faria: OWASP Top Ten Mobile</li>
 </ul>
