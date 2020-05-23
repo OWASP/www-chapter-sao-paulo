@@ -10,6 +10,35 @@ tags: chapter-sp
 
 <h2>Programação de 2020</h2>
 
+<h4>OWASP LATAM@Home 2020</h4>
+De 4 a 8 de maio, aconteceu o maior evento online da OWASP na América Latina, o OWASP LATAM@Home 2020.<br>
+Foram apresentadas palestras e workshops em Espanhol e Português. As informações sobre o evento estão disponíveis em https://owasp.org/www-event-2020-latam-at-home/<br>
+<br>
+Nós da OWASP Sao Paulo agradecemos os palestrantes que representaram o nosso capítulo nesse evento.<br>
+As palestras que eles realizaram foram as seguintes:<br>
+<br>
+Terça-feira:<br>
+<br>
+		17:20 - 18:00 Anchises Moraes: Bountying for Bugs<br>
+		18:00 - 18:40 Alessandra Martins: Jornada Security by Design<br>
+<br>
+	Quarta-feira:<br>
+<br>
+		20:40 - 21:20 Glauco Sampaio: Open Banking, e a segurança?<br>
+<br>
+	Quinta-feira:<br>
+<br>
+		16:40 - 17:20 Leandro Inácio: Automatizando o processo de reconhecimento<br>
+		17:20 - 18:00 Alessandra Martins: OWASP Top 10 e como isso pode dar um up nas QA´s skills?<br>
+		20:40 - 21:20 Fernando Galves: Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set<br>
+<br>
+	Sexta-feira:<br>
+<br>
+		21:20 - 22:00 Alessandro de Oliveira Faria: OWASP Top Ten Mobile<br>
+<br>
+Se você não teve tempo de assistir o evento online, não se preocupe. Todas as palestras foram gravadas e estão sendo disponibilizadas no canal oficial da OWASP LATAM. Acesse: https://www.youtube.com/watch?v=ZDXieXy6zkw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ<br>
+<br>
+
 <h4>OWASP SP NA AME</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso primeiro evento de 2020.<br>
 
