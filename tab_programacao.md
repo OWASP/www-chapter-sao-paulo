@@ -18,25 +18,27 @@ Nós da OWASP Sao Paulo agradecemos os palestrantes que representaram o nosso ca
 As palestras que eles realizaram foram as seguintes:<br>
 <br>
 Terça-feira:<br>
+<ul>
+<li>17:20 - 18:00 Anchises Moraes: Bountying for Bugs</li>
+<li>18:00 - 18:40 Alessandra Martins: Jornada Security by Design</li>
+</ul>
+Quarta-feira:<br>
+<ul>
+<li>20:40 - 21:20 Glauco Sampaio: Open Banking, e a segurança?</li>
+</ul>
+Quinta-feira:<br>
+<ul>
+<li>16:40 - 17:20 Leandro Inácio: Automatizando o processo de reconhecimento</li>
+<li>17:20 - 18:00 Alessandra Martins: OWASP Top 10 e como isso pode dar um up nas QA´s skills?</li>
+<li>20:40 - 21:20 Fernando Galves: Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set</li>
+</ul>
+Sexta-feira:<br>
+<ul>
+<li>21:20 - 22:00 Alessandro de Oliveira Faria: OWASP Top Ten Mobile</li>
+</ul>
 <br>
-		17:20 - 18:00 Anchises Moraes: Bountying for Bugs<br>
-		18:00 - 18:40 Alessandra Martins: Jornada Security by Design<br>
-<br>
-	Quarta-feira:<br>
-<br>
-		20:40 - 21:20 Glauco Sampaio: Open Banking, e a segurança?<br>
-<br>
-	Quinta-feira:<br>
-<br>
-		16:40 - 17:20 Leandro Inácio: Automatizando o processo de reconhecimento<br>
-		17:20 - 18:00 Alessandra Martins: OWASP Top 10 e como isso pode dar um up nas QA´s skills?<br>
-		20:40 - 21:20 Fernando Galves: Protegendo Aplicações Web com OWASP ModSecurity Core Rule Set<br>
-<br>
-	Sexta-feira:<br>
-<br>
-		21:20 - 22:00 Alessandro de Oliveira Faria: OWASP Top Ten Mobile<br>
-<br>
-Se você não teve tempo de assistir o evento online, não se preocupe. Todas as palestras foram gravadas e estão sendo disponibilizadas no canal oficial da OWASP LATAM. Acesse: https://www.youtube.com/watch?v=ZDXieXy6zkw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ<br>
+Se você não teve tempo de assistir o evento online, não se preocupe. Todas as palestras foram gravadas e estão sendo disponibilizadas no canal oficial da OWASP LATAM.<br>
+<b>Acesse: https://www.youtube.com/watch?v=ZDXieXy6zkw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ</b><br>
 <br>
 
 <h4>OWASP SP NA AME</h4>
