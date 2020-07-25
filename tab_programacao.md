@@ -10,6 +10,14 @@ tags: chapter-sp
 
 <h2>Programação de 2020</h2>
 
+<h4>OWASP SP Meetup Virtual</h4>
+O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso primeiro meetup virtual de 2020.<br>
+
+<b>Data:</b> Terça-feira, 04 de agosto de 2020 a partir das 19:00<br>
+<b>Evento online<br>
+<b>Inscrições:</b> <a href="https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/272136329/">Meetup OWASP SP</a><br>
+<br>
+
 <h4>OWASP LATAM@Home 2020</h4>
 De 4 a 8 de maio aconteceu o maior evento online da OWASP na América Latina, o OWASP LATAM@Home 2020.
 Foram apresentadas palestras e workshops em Espanhol e Português. As informações sobre o evento estão disponíveis em <a href="https://owasp.org/www-event-2020-latam-at-home/">https://owasp.org/www-event-2020-latam-at-home/</a><br>
