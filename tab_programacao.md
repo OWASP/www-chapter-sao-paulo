@@ -10,10 +10,18 @@ tags: chapter-sp
 
 <h2>Programação de 2020</h2>
 
+<h4>OWASP SP - Terceiro Meetup Virtual</h4>
+O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso terceiro meetup virtual de 2020.<br>
+
+<b>Data:</b> Quarta-feira, 23 de setembro de 2020 à partir das 19:00<br>
+<b>Evento online<br>
+<b>Inscrições:</b> <a href="https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/events/272868256/">Meetup OWASP SP</a><br>
+<br>
+
 <h4>OWASP SP - Segundo Meetup Virtual</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso segundo meetup virtual de 2020.<br>
 
-<b>Data:</b> Terça-feira, 25 de agosto de 2020 a partir das 19:00<br>
+<b>Data:</b> Terça-feira, 25 de agosto de 2020 à partir das 19:00<br>
 <b>Evento online<br>
 <b>Inscrições:</b> <a href="https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/272701016/">Meetup OWASP SP</a><br>
 <br>
@@ -21,7 +29,7 @@ O capítulo OWASP SP convida profissionais de segurança da informação, desenv
 <h4>OWASP SP Meetup Virtual</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso primeiro meetup virtual de 2020.<br>
 
-<b>Data:</b> Terça-feira, 04 de agosto de 2020 a partir das 19:00<br>
+<b>Data:</b> Terça-feira, 04 de agosto de 2020 à partir das 19:00<br>
 <b>Evento online<br>
 <b>Inscrições:</b> <a href="https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/272136329/">Meetup OWASP SP</a><br>
 <br>
@@ -51,7 +59,7 @@ As palestras que eles realizaram foram as seguintes:<br>
 </ul>
 <b>Sexta-feira:</b><br>
 <ul>
-<li>21:20 - 22:00 Alessandro de Oliveira Faria: OWASP Top Ten Mobile</li>
+<li><a href="https://www.youtube.com/watch?v=7-GnQwOM264&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ&index=26">21:20 - 22:00 Alessandro de Oliveira Faria: OWASP Top Ten Mobile</a></li>
 </ul>
 Se você não teve tempo de assistir o evento online, não se preocupe. Todas as palestras foram gravadas e estão sendo disponibilizadas no canal oficial da OWASP LATAM. Acesse a <a href="https://www.youtube.com/watch?v=ZDXieXy6zkw&list=PLiooNakZQW8ocvzBZ9MoWVTatgdRTjnwQ">playlist em Português</a><br>
 <br>
