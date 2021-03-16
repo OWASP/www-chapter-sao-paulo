@@ -13,7 +13,7 @@ tags: chapter-sp
 <h4>OWASP SP - Segundo Meetup Virtual de 2021</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso segundo meetup virtual de 2021.<br>
 
-<b>Data:</b> Quinta-feira, 30 de março de 2021 à partir das 19:20<br>
+<b>Data:</b> Terça-feira, 30 de março de 2021 à partir das 19:20<br>
 <b>Evento online<br>
 <b>Inscrições:</b> <a href="https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/276964216/">Meetup OWASP SP</a><br>
 <br>
