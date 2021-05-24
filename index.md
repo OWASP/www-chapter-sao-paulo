@@ -29,3 +29,6 @@ Serão realizados encontros para que as pessoas possam compartilhar conhecimento
 <li>A participação nas listas de discussão e a participação nas sessões da OWASP São Paulo são gratuitas.</li>
 </ul>
 <br>
+### Upcoming Meeting information:
+
+{% include chapter_events.html group=page.meetup-group %}
