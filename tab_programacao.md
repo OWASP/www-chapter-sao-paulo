@@ -10,6 +10,14 @@ tags: chapter-sp
 
 <h2>Programação de 2021</h2>
 
+<h4>OWASP SP - Quarto Meetup Virtual de 2021</h4>
+O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso quarto meetup virtual de 2021.<br>
+
+<b>Data:</b> Quarta-feira, 29 de setembro de 2021 à partir das 19:00<br>
+<b>Evento online<br>
+<b>Inscrições:</b> <a href="https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/280745021/">Meetup OWASP SP</a><br>
+<br>
+  
 <h4>OWASP SP - Terceiro Meetup Virtual de 2021</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso terceiro meetup virtual de 2021.<br>
 
