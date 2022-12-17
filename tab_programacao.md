@@ -10,14 +10,6 @@ tags: chapter-sp
 
 <h2>Programação de 2022</h2>
 
-<h4>OWASP SP - Quarto Meetup Virtual de 2022</h4>
-O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso quarto meetup virtual de 2022.<br>
-
-<b>Data:</b> Quarta-feira, 28 de dezembro de 2022 à partir das 20h00<br>
-<b>Evento online<br>
-<b>Inscrições:</b> <a href="https://www.meetup.com/pt-BR/owasp-sao-paulo-chapter/events/290392250/">Meetup OWASP SP</a><br>
-<br>
-
 <h4>OWASP SP - Terceiro Meetup Virtual de 2022</h4>
 O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso terceiro meetup virtual de 2022.<br>
 
