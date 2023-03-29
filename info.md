@@ -4,3 +4,5 @@
 ### Board Members
 
 * Prof. Dra. Inês Brosso
+* Ricardo Martins da Cruz Junior
+
