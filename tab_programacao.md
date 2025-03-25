@@ -8,6 +8,16 @@ tab: true
 tags: chapter-sp
 ---
 
+<h2>Programação de 2025</h2>
+
+<h4>OWASP SP - Primeiro Meetup Presencial de 2025</h4>
+O capítulo OWASP SP convida profissionais de segurança da informação, desenvolvedores de software, estudantes das áreas de tecnologia da informação e demais interessados no assunto, para participarem do nosso primeiro meetup presencial de 2025.<br>
+
+<b>Data:</b> Terça-feira, 8 de Abril de 2025 à partir das 19h00<br>
+<b>Evento online<br>
+<b>Inscrições:</b> <a href="https://www.meetup.com/owasp-sao-paulo-chapter/events/306897539/">Meetup OWASP SP</a><br>
+<br>
+
 <h2>Programação de 2022</h2>
 
 <h4>OWASP SP - Quarto Meetup Virtual de 2022</h4>
