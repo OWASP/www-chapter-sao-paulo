@@ -1,0 +1,33 @@
+community:
+  - name: chapter-sao_paulo
+    platform: slack
+    url: https://owasp.slack.com/archives/C18T9R23U
+    description: OWASP São Paulo Chapter
+leaders:
+  - name: Alessandro de Oliveira Faria (Cabelo)
+    email: alessandro.faria@owasp.org
+    github: cabelo
+  - name: Carlos Carvalho (Kardan)
+    email: carlos.carvalho@owasp.org
+    github: carloskardan
+  - name: Diego Martins
+    email: diego.martins@owasp.org
+    github: dsmartins
+location:
+  country: Brazil
+  country_code: BR
+  region: Sao Paulo
+  city: Sao Paulo
+  latitude: -23.5506507
+  longitude: -46.6333824
+meetup_group: OWASP-Sao-Paulo-Chapter
+name: OWASP Sao Paulo
+repositories:
+  - name: www-chapter-sao-paulo
+    url: https://github.com/OWASP/www-chapter-sao-paulo
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-sp
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-sao-paulo
