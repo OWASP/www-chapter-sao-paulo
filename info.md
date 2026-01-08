@@ -6,4 +6,3 @@
 * Prof. Dra. Inês Brosso
 * Ricardo Martins (r00t1ng)
 * Eduardo Neves (eth0)
-* Christiano Linuxmen
